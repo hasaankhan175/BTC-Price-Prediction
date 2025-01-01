@@ -35,7 +35,7 @@ The dataset contains historical Bitcoin price data, including:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/btc-price-forecasting.git
+   git clone https://github.com/hasaankhan175/BTC-Price-Prediction.git
    ```
 2. Install dependencies:
    ```bash
